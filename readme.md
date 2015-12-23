@@ -2,6 +2,9 @@
 
 This plugin adds client-side resources from [Commons](http://github.com/commons) to the templates. 
 
+NOTE: This plugin is now DEPRECATED as KISSCMS is focusing on server-side logic. 
+ 
+
 ## Usage
 
 After copying the contents of this plugin in the ```PLUGINS``` location the ```common.css``` and ```common.js``` are going to be referenced in all the templates. 
@@ -13,7 +16,7 @@ You can login to the administration to change the URLs of the files.
 
 ## Credits 
 
-Created by Makis Tracend ( [@tracend](http://github.com/tracend) )
+Initiated by Makis Tracend ( [@tracend](http://github.com/tracend) )
 
 Distributed through [Makesites.org](http://makesites.org/)
 
